@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3c9a555d-5164-4d04-a7c9-068c3965787d" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="html" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/uek视屏.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="496">
+              <caret line="167" column="28" selection-start-line="167" selection-start-column="28" selection-end-line="167" selection-end-column="28" />
+              <folding>
+                <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#1;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#2;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#3;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#1;n#div#3;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#4;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#2;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#5;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#1;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#1;n#div#7;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#2;n#div#7;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#0;n#div#2;n#div#7;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#3;n#div#7;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#8;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#0;n#div#8;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#10;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#0;n#div#0;n#div#10;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#1;n#div#10;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#2;n#div#10;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#3;n#div#10;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#11;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#16;n#body#0;n#html#0;n#!!top" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/uek.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="450">
+              <caret line="290" column="21" selection-start-line="290" selection-start-column="21" selection-end-line="290" selection-end-column="21" />
+              <folding>
+                <element signature="e#6#115#0" />
+                <element signature="e#122#180#0" />
+                <element signature="e#192#239#0" />
+                <element signature="e#251#309#0" />
+                <element signature="e#324#430#0" />
+                <element signature="e#439#518#0" />
+                <element signature="e#529#633#0" />
+                <element signature="e#642#700#0" />
+                <element signature="e#711#814#0" />
+                <element signature="e#831#882#0" />
+                <element signature="e#889#974#0" />
+                <element signature="e#983#1080#0" />
+                <element signature="e#1089#1166#0" />
+                <element signature="e#1177#1258#0" />
+                <element signature="e#1269#1324#0" />
+                <element signature="e#1335#1413#0" />
+                <element signature="e#1523#1613#0" />
+                <element signature="e#3824#3911#0" />
+                <element signature="e#3978#4087#0" />
+                <element signature="e#4598#4743#0" />
+                <element signature="e#4766#4851#0" />
+                <element signature="e#4868#4934#0" />
+                <element signature="e#4959#5017#0" />
+                <element signature="e#5034#5144#0" />
+                <element signature="e#5161#5277#0" />
+                <element signature="e#5288#5296#0" />
+                <element signature="e#5295#5440#0" />
+                <element signature="e#5463#5548#0" />
+                <element signature="e#5562#5631#0" />
+                <element signature="e#5634#5714#0" />
+                <element signature="e#5718#5755#0" />
+                <element signature="e#5759#5816#0" />
+                <element signature="e#5820#5943#0" />
+                <element signature="e#5947#6041#0" />
+                <element signature="e#6047#6198#0" />
+                <element signature="e#6206#6269#0" />
+                <element signature="e#6275#6321#0" />
+                <element signature="e#6326#6371#0" />
+                <element signature="e#6374#6394#0" />
+                <element signature="e#6397#6456#0" />
+                <element signature="e#6460#6570#0" />
+                <element signature="e#6575#6691#0" />
+                <element signature="e#6697#6842#0" />
+                <element signature="e#6853#6938#0" />
+                <element signature="e#6944#7035#0" />
+                <element signature="e#7041#7107#0" />
+                <element signature="e#7112#7187#0" />
+                <element signature="e#7199#7232#0" />
+                <element signature="e#7237#7353#0" />
+                <element signature="e#7358#7474#0" />
+                <element signature="e#7479#7595#0" />
+                <element signature="e#7615#7706#0" />
+                <element signature="e#7725#7838#0" />
+                <element signature="e#7858#7971#0" />
+                <element signature="e#7990#8102#0" />
+                <element signature="e#8121#8233#0" />
+                <element signature="e#8253#8321#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/demo.css" />
+        <option value="$PROJECT_DIR$/demo.html" />
+        <option value="$PROJECT_DIR$/two.html" />
+        <option value="$PROJECT_DIR$/uek.css.html" />
+        <option value="$PROJECT_DIR$/uek.html" />
+        <option value="$PROJECT_DIR$/text.html" />
+        <option value="$PROJECT_DIR$/uek视屏.html" />
+        <option value="$PROJECT_DIR$/uek.css" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-4" />
+    <option name="y" value="536" />
+    <option name="width" value="1938" />
+    <option name="height" value="701" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="html" type="b2602c69:ProjectViewProjectNode" />
+              <item name="html" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\qianduan\html" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3c9a555d-5164-4d04-a7c9-068c3965787d" name="Default Changelist" comment="" />
+      <created>1567041412058</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1567041412058</updated>
+      <workItem from="1567041422235" duration="21496000" />
+      <workItem from="1567084174117" duration="6551000" />
+      <workItem from="1567125554759" duration="23668000" />
+      <workItem from="1567164171281" duration="655000" />
+      <workItem from="1567327067194" duration="14263000" />
+      <workItem from="1567390024170" duration="3797000" />
+      <workItem from="1567415856191" duration="13912000" />
+      <workItem from="1567470944411" duration="5065000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="89407000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-9" y="-9" width="1938" height="1050" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49209931" visible="true" weight="0.19581544" />
+      <window_info id="Structure" order="1" sideWeight="0.50790066" side_tool="true" weight="0.18776824" />
+      <window_info id="Favorites" order="2" sideWeight="0.5011287" side_tool="true" weight="0.17757511" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/uek.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/two.html" />
+    <entry file="file://$PROJECT_DIR$/demo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="529">
+          <caret line="23" column="8" selection-start-line="23" selection-start-column="8" selection-end-line="25" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uek.php" />
+    <entry file="file://$PROJECT_DIR$/uek.css.html" />
+    <entry file="file://$PROJECT_DIR$/demo.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/text.html" />
+    <entry file="file://$PROJECT_DIR$/uek.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="17" column="14" lean-forward="true" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
+          <folding>
+            <element signature="n#div#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uek视屏.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="496">
+          <caret line="167" column="28" selection-start-line="167" selection-start-column="28" selection-end-line="167" selection-end-column="28" />
+          <folding>
+            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#2;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#3;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#div#3;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#4;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#2;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#5;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#div#7;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#2;n#div#7;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#div#2;n#div#7;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#3;n#div#7;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#8;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#div#8;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#10;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#div#0;n#div#10;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#div#10;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#2;n#div#10;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#3;n#div#10;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#11;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#16;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uek.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="290" column="21" selection-start-line="290" selection-start-column="21" selection-end-line="290" selection-end-column="21" />
+          <folding>
+            <element signature="e#6#115#0" />
+            <element signature="e#122#180#0" />
+            <element signature="e#192#239#0" />
+            <element signature="e#251#309#0" />
+            <element signature="e#324#430#0" />
+            <element signature="e#439#518#0" />
+            <element signature="e#529#633#0" />
+            <element signature="e#642#700#0" />
+            <element signature="e#711#814#0" />
+            <element signature="e#831#882#0" />
+            <element signature="e#889#974#0" />
+            <element signature="e#983#1080#0" />
+            <element signature="e#1089#1166#0" />
+            <element signature="e#1177#1258#0" />
+            <element signature="e#1269#1324#0" />
+            <element signature="e#1335#1413#0" />
+            <element signature="e#1523#1613#0" />
+            <element signature="e#3824#3911#0" />
+            <element signature="e#3978#4087#0" />
+            <element signature="e#4598#4743#0" />
+            <element signature="e#4766#4851#0" />
+            <element signature="e#4868#4934#0" />
+            <element signature="e#4959#5017#0" />
+            <element signature="e#5034#5144#0" />
+            <element signature="e#5161#5277#0" />
+            <element signature="e#5288#5296#0" />
+            <element signature="e#5295#5440#0" />
+            <element signature="e#5463#5548#0" />
+            <element signature="e#5562#5631#0" />
+            <element signature="e#5634#5714#0" />
+            <element signature="e#5718#5755#0" />
+            <element signature="e#5759#5816#0" />
+            <element signature="e#5820#5943#0" />
+            <element signature="e#5947#6041#0" />
+            <element signature="e#6047#6198#0" />
+            <element signature="e#6206#6269#0" />
+            <element signature="e#6275#6321#0" />
+            <element signature="e#6326#6371#0" />
+            <element signature="e#6374#6394#0" />
+            <element signature="e#6397#6456#0" />
+            <element signature="e#6460#6570#0" />
+            <element signature="e#6575#6691#0" />
+            <element signature="e#6697#6842#0" />
+            <element signature="e#6853#6938#0" />
+            <element signature="e#6944#7035#0" />
+            <element signature="e#7041#7107#0" />
+            <element signature="e#7112#7187#0" />
+            <element signature="e#7199#7232#0" />
+            <element signature="e#7237#7353#0" />
+            <element signature="e#7358#7474#0" />
+            <element signature="e#7479#7595#0" />
+            <element signature="e#7615#7706#0" />
+            <element signature="e#7725#7838#0" />
+            <element signature="e#7858#7971#0" />
+            <element signature="e#7990#8102#0" />
+            <element signature="e#8121#8233#0" />
+            <element signature="e#8253#8321#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
